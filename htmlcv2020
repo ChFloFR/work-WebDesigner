@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>Florent Neuville</title>
+     <p>CV d'apprenti développeur web</p>
+     <meta charset="utf-8"/>
+     <link rel="stylesheet" href="stylesheetCV.css"/>
+    </head>
+    <body>
+      <header>
+        <p>
+          <div class="logo">
+          <img src="C:\Users\Florent\Desktop\CODE\CV\photomini_cv.jpg" alt="chatquilouche"/>
+          </div>
+        </p>
+      </header>
+      <h2>Vie professionnelle</h2>
+        <p>
+          <ul>
+            <dl><strong>Agent Immobilier de 2000 à 2007</strong></dl>
+            <dd>Prospection, relations clients et connaissances juridiques</dd>
+            <dl><strong>Employé d'un centre de loisir Lasergame de 2007 à 2011</strong></dl>
+            <dd>Animateur temps partiel puis temps plein, évolution jusqu'à responsable de salle</dd>
+            <dl><strong>Vendeur en crèmerie-fromagerie de 2011 à 2018</strong></dl>
+            <dd>Vente, rotation et gestion de produits alimentaires</dd>
+          </ul>   
+        </p>
+      <h2>Diplômes en tout genre</h2>
+        <p>
+          <ul>
+            <li>CQP Crémier-fromager en 2013 à l'Ifopca à Paris (75)</li>
+            <li>BTS Force de vente en 2004 à l'Isefac à Lille (59)</li>
+            <li>Baccalauréat Action et communication commerciale à Saint Jean-Baptiste de la Salle à Lille (59)</li>
+        </p>
+          </ul>
+      <h2><div class="loisirs">Mes loisirs</div></h2>
+      <p><em>Crossfit,</em>Activité sportive d'entretien et de musculation à la maison</p><br/>
+      <p><em>Jeux vidéos,</em>City builders et FPS sur PC, Aventure type Zelda et Mario kart pour montrer aux enfants qui est le chef !</p><br/>
+      <p><em>Lecture,</em>Romans policiers avec du sang si possible ! Fan du personnage de Sherlock Holmes et de ses dérivés</p><br/>
+        </ul>
+
+    </body>
+
+</html>
